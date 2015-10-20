@@ -1,0 +1,28 @@
+1.
+	punto a
+		1. el nombre del archivo es "proyecto2"
+============================================================
+2.
+	punto a
+		1. /Users/lsartori/Documents/workspace/Proyecto2
+		
+		3.
+			1.  Proyecto2/bin
+			2. El contenido es "HolaMundo.class"
+	punto c
+		1. ninguno
+		2. para borrar los archivos de clase compilados
+		3. sirve para compilar automaticamente ante un cambio al momento de la ejecución.
+============================================================
+6.
+	punto b
+		No, ya que el fragmento modifica variables locales del codigo
+============================================================
+7.
+	punto b
+		1. F8
+		2. F6
+	punto c
+		1. en la vista views
+		2. en la vista breakpoints
+		3. si, cliqueando en las cajas de selección
