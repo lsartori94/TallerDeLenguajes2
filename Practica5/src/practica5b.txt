@@ -1,0 +1,6 @@
+Punto 2
+=======
+  A) El error sucede porque cada clase implementa el metodo "saludo()" con un modificador de acceso distinto, lo
+  cual no esta permitido. La clase que herede de Animal no puede "reducir la visibilidad" del metodo.
+
+  B)"protected" y "public"
